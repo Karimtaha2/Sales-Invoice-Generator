@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package listner.listnerMenuBar;
+package listner.listnerActionButton;
 
 import salesinvoicegenerator.Frame;
 import java.io.BufferedReader;
