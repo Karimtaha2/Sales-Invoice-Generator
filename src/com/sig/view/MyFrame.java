@@ -242,14 +242,14 @@ public class MyFrame extends javax.swing.JFrame {
 
         saveButtonRightSIde.setBackground(new java.awt.Color(0, 0, 0));
         saveButtonRightSIde.setForeground(new java.awt.Color(255, 255, 255));
-        saveButtonRightSIde.setText("Create New Line");
+        saveButtonRightSIde.setText("Add Item");
         saveButtonRightSIde.setActionCommand("SaveButton");
         saveButtonRightSIde.setPreferredSize(new java.awt.Dimension(132, 33));
         saveButtonRightSIde.setActionCommand("SaveButton");
 
         cancelButtonRightSIde.setBackground(new java.awt.Color(0, 0, 0));
         cancelButtonRightSIde.setForeground(new java.awt.Color(255, 255, 255));
-        cancelButtonRightSIde.setText("Delete Line");
+        cancelButtonRightSIde.setText("Delete Item");
         cancelButtonRightSIde.setPreferredSize(new java.awt.Dimension(132, 33));
         cancelButtonRightSIde.setActionCommand("CancelButton");
         cancelButtonRightSIde.addActionListener(new java.awt.event.ActionListener() {

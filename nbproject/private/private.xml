@@ -4,6 +4,18 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/run/RunPrograme.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/view/MyFrame.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/controller/ImplementsListner.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/view/CreateNewInvoiceHeaderDialog.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/controller/menubar_action_listner/CloseFileMenuBarActionListner.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/view/SaveLineDialog.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/controller/menubar_action_listner/SaveFileMenuBarActionListner.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/model/InvoiceLineJTableModel.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/model/InvoiceHeader.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/model/InvoiceLine.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/model/InvoiceHeaderJTableModel.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/controller/menubar_action_listner/LoadFileMenuBarActionListner.java</file>
+            <file>file:/D:/My%20Life/Testing%20Track%20ITI%203-months/Testing%20egFWD/New%20Folder/sales_invoice_generator/src/com/sig/controller/button_action_listner/ButtonsActionListners.java</file>
         </group>
     </open-files>
 </project-private>
